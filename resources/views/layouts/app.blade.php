@@ -65,8 +65,16 @@
             <h2 class="font-black text-center  text-3xl mb-10">
                 @yield('titulo')
             </h2>
-            @yield('contenido')
-            @yield('contenido2')
+            @if (request()->is('/'))
+                <div class="container flex gap-6 justify-between">
+                    @yield('contenido')
+                    <div class="m-3 pb-10 max-h-full border-b bg-white shadow rounded">
+                        @yield('contenido2')
+                    </div>
+                </div>
+            @else
+                @yield('contenido')
+            @endif
         </main>
 
         <footer class="mt-10 text-center p-5 text-gray-500 font-bold uppercase">

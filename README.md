@@ -23,7 +23,6 @@ Tailwind<br/>
 MySQL<br/>
 HTML<br/>
 Composer<br/>
-JavaScript<br/>
 <br/>
 <strong>Funcionalidad del Proyecto:</strong><br/>
 El proyecto "Devstagram" es una plataforma de redes sociales que permite a los usuarios compartir imágenes, interactuar con publicaciones y seguir a otros usuarios. Las funcionalidades principales incluyen:
@@ -40,4 +39,4 @@ Durante el desarrollo de "Devstagram", se adquirieron y fortalecieron las siguie
 Desarrollo Backend: Implementación de autenticación y autorización de usuarios utilizando Laravel.
 Gestión de Bases de Datos: Diseño y gestión de bases de datos con MySQL para almacenar usuarios, publicaciones y comentarios.
 Interacción Frontend: Para el front se uso Blande.
-Diseño de Interfaces: Creación de interfaces de usuario responsivas y funcionales utilizando HTML, Tailwind y JavaScript.<br/>
+Diseño de Interfaces: Creación de interfaces de usuario responsivas y funcionales utilizando HTML, Tailwind.<br/>

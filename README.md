@@ -39,5 +39,5 @@ Durante el desarrollo de "Devstagram", se adquirieron y fortalecieron las siguie
 
 Desarrollo Backend: Implementación de autenticación y autorización de usuarios utilizando Laravel.
 Gestión de Bases de Datos: Diseño y gestión de bases de datos con MySQL para almacenar usuarios, publicaciones y comentarios.
-Interacción Frontend-Backend: Comunicación entre el frontend y el backend mediante solicitudes API.
-Diseño de Interfaces: Creación de interfaces de usuario responsivas y funcionales utilizando HTML, CSS y JavaScript.<br/>
+Interacción Frontend: Para el front se uso Blande.
+Diseño de Interfaces: Creación de interfaces de usuario responsivas y funcionales utilizando HTML, Tailwind y JavaScript.<br/>
